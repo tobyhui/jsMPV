@@ -1,6 +1,6 @@
 {
   "name": "@toby-mpv/nodemon",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Toby_hui",
   "homepage": "",
@@ -17,8 +17,7 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "chokidar": "^3.5.2",
     "optimist": "^0.6.1"
