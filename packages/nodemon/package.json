@@ -23,7 +23,7 @@
     "optimist": "^0.6.1"
   },
   "bin": {
-    "t-nodemon": "@toby-mpv/nodemon"
+    "t-nodemon": "./bin/@toby-mpv/nodemon"
   },
   "gitHead": "e6ce4f2ab558759a42d2c92721749235492b469a"
 }
