@@ -17,13 +17,13 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "bin":{
-
-  },
   "scripts": {
   },
   "dependencies": {
     "chokidar": "^3.5.2",
     "optimist": "^0.6.1"
+  },
+  "bin": {
+    "t-nodemon": "@toby-mpv/nodemon"
   }
 }
