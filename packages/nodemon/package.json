@@ -1,7 +1,7 @@
 {
   "name": "@toby-mpv/nodemon",
-  "version": "0.0.1",
-  "description": "> TODO: description",
+  "version": "0.0.0",
+  "description": "",
   "author": "Toby_hui",
   "homepage": "",
   "license": "ISC",
@@ -24,5 +24,6 @@
   },
   "bin": {
     "t-nodemon": "@toby-mpv/nodemon"
-  }
+  },
+  "gitHead": "e6ce4f2ab558759a42d2c92721749235492b469a"
 }
