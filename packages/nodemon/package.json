@@ -1,0 +1,29 @@
+{
+  "name": "@toby-mpv/nodemon",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Toby_hui",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/nodemon.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "bin":{
+
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "optimist": "^0.6.1"
+  }
+}
