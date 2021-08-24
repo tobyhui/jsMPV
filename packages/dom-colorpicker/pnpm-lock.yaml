@@ -1,0 +1,27 @@
+lockfileVersion: 5.3
+
+specifiers:
+  html2canvas: ^1.1.5
+
+dependencies:
+  html2canvas: 1.1.5
+
+packages:
+
+  /base64-arraybuffer/0.2.0:
+    resolution: {integrity: sha512-7emyCsu1/xiBXgQZrscw/8KPRT44I4Yq9Pe6EGs3aPRTsWuggML1/1DTuZUuIaJPIm1FTDUVXl4x/yW8s0kQDQ==}
+    engines: {node: '>= 0.6.0'}
+    dev: false
+
+  /css-line-break/2.0.0:
+    resolution: {integrity: sha512-zEKNpyrJHt4R3qAXLTdJkJc7F/4dkNWG+ij2CHF6/o346QJ6GSjD+oaKOUQoibOy0Wvl3F8IYdEEx3yb/+rdJw==}
+    dependencies:
+      base64-arraybuffer: 0.2.0
+    dev: false
+
+  /html2canvas/1.1.5:
+    resolution: {integrity: sha512-c9qzvAnE63+NcSXYhI454C9Ga/YZroEaI7aSmC3+APWrW6cdzOTo9/K4zwHi3LH/YGwmU/HO/xO7qALB2Kue5g==}
+    engines: {node: '>=8.0.0'}
+    dependencies:
+      css-line-break: 2.0.0
+    dev: false
